@@ -5,7 +5,7 @@
 
 ## Live Demo
 
-🔗 **[Add Streamlit Deployment Link Here]**
+🔗 **https://bankmind.streamlit.app/**
 
 ---
 
